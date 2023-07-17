@@ -1,4 +1,6 @@
-# Nome do meu projeto
+# Card Residentes em Hogwarts
+
+> Status do projeto: Em desenvolvimento
 
 Rápida descrição do objetivo de fazer esse projeto
 
