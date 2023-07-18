@@ -22,7 +22,6 @@ const Formulario = (props) => {
         setNome('')
         setCargo('')
         setImagem('')
-        setCasa('')
     }
 
     return (
