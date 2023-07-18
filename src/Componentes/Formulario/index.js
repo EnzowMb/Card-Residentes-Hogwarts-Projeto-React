@@ -29,7 +29,7 @@ const Formulario = (props) => {
     return (
         <section className="formulario">
             <form onSubmit={aoSalvar}>
-                <h2>Preencha os dados para criar um card de Estudante ou Professor!</h2>
+                <h2>Preencha os dados para criar um card de um Residente de Hogwarts!</h2>
                 <CampoTexto
                     label="Nome"
                     placeholder="Seu nome"

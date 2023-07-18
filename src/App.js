@@ -8,23 +8,23 @@ function App() {
   const casas = [
     {
       nome: 'Grifinória',
-      corPrimaria: '#57C278',
-      corSecundaria: '#D9F7E9',
+      corPrimaria: '#EEBA30',
+      corSecundaria: '#964446',
     },
     {
       nome: 'Lufa-Lufa',
-      corPrimaria: '#82CFFA',
-      corSecundaria: '#E8F8FF',
+      corPrimaria: '#372E29',
+      corSecundaria: '#deee4f',
     },
     {
       nome: 'Corvinal',
-      corPrimaria: '#A6D157',
-      corSecundaria: '#F0F8E2',
+      corPrimaria: '#5D5D5D',
+      corSecundaria: '#425596',
     },
     {
       nome: 'Sonserina',
-      corPrimaria: '#E06B69',
-      corSecundaria: '#FDE7E8',
+      corPrimaria: '#5D5D5D',
+      corSecundaria: '#2A623D',
     }
   ]
 
