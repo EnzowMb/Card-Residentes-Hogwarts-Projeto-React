@@ -2,17 +2,19 @@
 
 > Status do projeto: Em desenvolvimento
 
-Rápida descrição do objetivo de fazer esse projeto
+Gere Cards para os moradores de Hogwarts!
+
+Projeto criado para ampliar meus conhecimentos em Front-End utilizando React.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Card Residentes em Hogwarts**
+| :label: Tecnologias | React
+| :rocket: URL         | https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React
+| :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React/assets/89809584/e741def3-1147-4e75-9e3a-25e811055416#vitrinedev)
 
 ## Detalhes do projeto
 
