@@ -1,21 +1,21 @@
 # Card Residentes em Hogwarts | Projeto React
 
-> Status do projeto: Em desenvolvimento
+https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React/assets/89809584/b29832e9-2a3e-4f59-9312-ffe1018c4462#vitrinedev
+
+<div align="center">
+
+  <h2>🖥Tecnologias utilizadas</h2>
+
+  <img src="https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React/assets/89809584/b43d033a-35f7-4b8d-b641-c67183e1a40b" width="100px"/><br>
+  <h4>React</h4>
+  <h4>CSS3</h4>
+  <h4>HTML5</h4>
+  <h4>Javascript</h4>
+  
+</div>
+
+<h2>📜Descrição</h2>
 
 Gere Cards para os moradores de Hogwarts!
 
-Projeto criado para ampliar meus conhecimentos em Front-End utilizando React.
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Card Residentes em Hogwarts**
-| :label: Tecnologias | React
-| :rocket: URL         | https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React
-| :fire: Desafio     | 
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React/assets/89809584/e741def3-1147-4e75-9e3a-25e811055416#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+A página foi criada para ampliar meus conhecimentos em Front-End utilizando React.
