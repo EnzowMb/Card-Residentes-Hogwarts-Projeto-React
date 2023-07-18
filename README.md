@@ -1,6 +1,6 @@
 # Card Residentes em Hogwarts | Projeto React
 
-![gif_organoHogwarts_Readme](https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React/assets/89809584/64afaf07-c579-4288-8d0b-4db2d535d089#vitrinedev)
+![gif_organoHogwarts_readme](https://github.com/EnzowMb/Card-Residentes-Hogwarts-Projeto-React/assets/89809584/ea0618df-e03b-48b7-b062-2d34748e55e7#vitrinedev)
 
 <div align="center">
 
